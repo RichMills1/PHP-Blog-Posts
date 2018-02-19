@@ -19,7 +19,7 @@
  ?>
 
  <?php include('inc/header.php'); ?>
- 
+
    
         <nav class= "navbar navbar-default">
             <div class="container-fluid">
